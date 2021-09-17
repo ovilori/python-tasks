@@ -80,7 +80,7 @@ while True:
         print('You can\'t score more than 100 in a course. Try again & enter your score correctly.') 
         sys.exit()
 print('Computing semster grade...')
-time.sleep(10)
+time.sleep(3)
 #calculate the semester GPA
 #sum of all units 
 total_unit = sum(unit)
